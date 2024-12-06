@@ -112,7 +112,7 @@
 		</div>
 	</div>
 	<div class="mb-6 border-b">
-		<div class="container max-w-screen-lg py-12">
+		<div class="container max-w-screen-lg py-12 border-b">
 			<div class="prose mx-auto">
 				<h2 class="text-2xl font-semibold">Preface</h2>
 				<p>
@@ -131,6 +131,15 @@
 				<p>
 					Let's embark on this exciting journey together and uncover the mysteries of computing!
 				</p>
+			</div>
+		</div>
+		<div class="container max-w-screen-lg py-12">
+			<div class="prose mx-auto">
+				<h2 class="text-2xl font-semibold">Resources</h2>
+				<ul>
+					<li><a href="https://www.youtube.com/playlist?list=PLysa8wRFCssxGKj_RxBWr3rwmjEYlJIpa" target="_blank">[YouTube] Making a COMPILER from scratch</a></li>
+					<li><a href="https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M" target="_blank">[YouTube] Write your own Operating System</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>
